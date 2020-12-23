@@ -1,0 +1,22 @@
+.document-container{
+    margin-top: 64px;
+}
+.document-wrapper{
+    display: flex;
+
+}
+.content{
+    margin-left: 20%;
+    margin-right: 3%;
+    padding-left: 1%;
+    padding-right: 1%;
+    background-color: #F7F7F7;
+    border-style: solid;
+    border-top: none;
+    border-left: 1px solid #DDDDDD ;
+    border-bottom: 1px solid #DDDDDD;
+    border-right: 1px solid #DDDDDD;
+}
+.nav{
+    position: fixed;
+}

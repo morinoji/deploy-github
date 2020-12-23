@@ -1,0 +1,57 @@
+.footer-container{
+    background-color: transparent;
+    margin-top: 10%;
+    background-color: #F7F7F7;
+    border-top: 1px solid #DDDDDD;
+}
+.img-foot{
+    width: 150px;
+    border-radius: 20px;
+}
+.member{
+    display: flex;
+    flex-direction: column;
+
+}
+.member1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+    
+}
+.name{
+    display: flex;
+    
+}
+span{
+    font-size: 10px;
+}
+.footer-wrapper{
+    display: flex;
+    margin-left: 10%;
+}
+#phong{
+    height: 90%;
+}
+#hoang{
+    height: 90%;
+}
+#duke{
+    height: 90%;
+}
+p{
+    font-size: large;
+    margin-left: 20px;
+}
+h1{
+    margin-left: 10%;
+}
+.style {
+    height: 40;
+    width: 40;
+    border-Radius: 4px;
+    background-color: gray;
+    color:black;
+    text-align: center;
+    font-Size: 14;
+  };

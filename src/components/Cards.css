@@ -1,0 +1,40 @@
+.card-wrapper{
+    display: flex;
+    margin-left: 10%;
+}
+.card-container>h1{
+    margin-left: 10%;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 5%;
+}
+.card-holder{
+    margin-left: 3%;
+    box-sizing: border-box;
+}
+#tran{
+    height: 100%;
+}
+.card{
+    width: 240px;
+    
+}
+.card-holder-ly{
+    height: 95%;
+}
+@media screen and (max-width: 960px){
+    .card-wrapper{
+        display: flex;
+        margin-left: 10%;
+        flex-direction: column;
+    }
+    .card-holder{
+        margin-left: 0%;
+        margin-top: 3%;
+    }
+}
+.mayKhoi{
+    position: relative;
+    top: 10%;
+}
